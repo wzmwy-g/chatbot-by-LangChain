@@ -1,0 +1,15 @@
+# 忽略的文件和文件夹
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+
+# venv
+venv/
+
+# Node.js
+node_modules/
+dist/
